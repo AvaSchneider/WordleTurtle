@@ -1,0 +1,2 @@
+# WordleTurtle
+Wordle solving Bot
